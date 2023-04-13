@@ -12,10 +12,10 @@ Aspiring fullstack developer currently learning Rust 🦀
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayanth-parthsarathy&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth-parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
