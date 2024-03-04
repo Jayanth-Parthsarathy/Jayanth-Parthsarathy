@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my WebRTC<br>❤️ I’m looking to collaborate on Open Source<br>🌱 I’m currently learning TypeScript and Rust<br>
+🔭 I’m currently working on WebRTC<br>❤️ I’m looking to collaborate on Open Source<br>🌱 I’m currently learning TypeScript and Rust<br>
 
 
 ## 🌐 Socials:
