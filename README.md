@@ -12,40 +12,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 122.4 kB Used in GitHub's Storage 
- > 
-> 🏆 140 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 83 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                193 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-🌆 Daytime                252 commits         ███████░░░░░░░░░░░░░░░░░░   29.27 % 
-🌃 Evening                386 commits         ███████████░░░░░░░░░░░░░░   44.83 % 
-🌙 Night                  30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Tuesday                  223 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-Wednesday                122 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Saturday                 170 commits         █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-```
-
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -61,16 +28,6 @@ Other                    1 hr                ██░░░░░░░░░�
 
 🔥 Editors: 
 Neovim                   15 hrs 14 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Unknown Project          4 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-lute-v3                  3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
-landing-page             1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-jsr                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-owncast.github.io        38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-
-💻 Operating System: 
-Linux                    15 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,12 +42,8 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Jayanth-Parthsarathy/Jayanth-Parthsarathy/main/assets/bar_graph.png)
-
-
- Last Updated on 19/03/2024 08:26:18 UTC
+ Last Updated on 19/03/2024 09:49:19 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
