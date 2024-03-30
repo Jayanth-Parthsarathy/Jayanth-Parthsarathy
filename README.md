@@ -20,11 +20,10 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        7 mins              ██████████████░░░░░░░░░░░   56.49 % 
-Lua                      5 mins              ███████████░░░░░░░░░░░░░░   43.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -40,7 +39,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2024 19:39:03 UTC
+ Last Updated on 30/03/2024 19:37:23 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
