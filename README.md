@@ -20,8 +20,8 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.50 % 
-TypeScript               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+Markdown                 4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
+TypeScript               1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
 HTML                     1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 JavaScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
 Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
@@ -43,7 +43,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2024 19:32:35 UTC
+ Last Updated on 05/04/2024 19:38:04 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
