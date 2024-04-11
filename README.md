@@ -10,25 +10,7 @@
 
 # Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-C++                      6 hrs 54 mins       ████████████████░░░░░░░░░   63.95 % 
-HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-C                        45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-🔥 Editors: 
-Neovim                   10 hrs 48 mins      █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -43,7 +25,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/04/2024 19:44:37 UTC
+ Last Updated on 11/04/2024 19:24:37 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
