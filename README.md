@@ -10,7 +10,7 @@
 
 # Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -20,14 +20,14 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Lua                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-TOML                     16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-tmux                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Text                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Lua                      20 mins             █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+TOML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Python                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+tmux                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
 
 🔥 Editors: 
-Neovim                   1 hr 27 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -43,7 +43,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/04/2024 19:29:41 UTC
+ Last Updated on 19/04/2024 19:26:03 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
