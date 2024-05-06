@@ -10,7 +10,7 @@
 
 # Wakatime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C071%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -20,26 +20,29 @@
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 11 mins             ███████████████░░░░░░░░░░   61.83 % 
+TypeScript               5 mins              ████████░░░░░░░░░░░░░░░░░   31.05 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
-C                        11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+C                        11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 ```
 
 
 
 
- Last Updated on 05/05/2024 19:28:56 UTC
+ Last Updated on 06/05/2024 19:31:14 UTC
 <!--END_SECTION:waka-->
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
