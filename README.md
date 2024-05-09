@@ -1,59 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on WebRTC<br>❤️ I’m looking to collaborate on Open Source<br>🌱 I’m currently learning TypeScript and Rust<br>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jayanth-parthsarathy) <br/>
-[![](https://visitcount.itsvg.in/api?id=Jayanth-Parthsarathy&icon=0&color=2)](https://visitcount.itsvg.in)
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayanth-parthsarathy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanth-parthsarathy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# Wakatime Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C073%20hrs%2054%20mins-blue)
+###
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-📊 **This Week I Spent My Time On** 
+###
 
-```text
-🕑︎ Time Zone: Asia/Kolkata
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-💬 Programming Languages: 
-TypeScript               2 hrs 15 mins       ██████████████████░░░░░░░   70.22 % 
-tmux                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Lua                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-fish                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+###
 
-🔥 Editors: 
-Neovim                   3 hrs 12 mins       █████████████████████████   100.00 % 
-```
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-**I Mostly Code in JavaScript** 
+###
 
-```text
-TypeScript               24 repos            ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-C                        11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Python                   7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Go                       6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-```
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/jayanth-parthsarathy/jayanth-parthsarathy/output/snake.svg" alt="Snake animation" />
 
-
-
- Last Updated on 08/05/2024 19:35:36 UTC
-<!--END_SECTION:waka-->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanth-Parthsarathy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jayanth-Parthsarathy&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
