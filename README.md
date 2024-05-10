@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Jayanth-Parthsarathy/Jayanth-Parthsarathy/assets/code.gif"  />
+<img align="right" height="150" src="assets/code.gif"  />
 
 ###
 
